@@ -7,7 +7,7 @@ Your task is to develop a mobile application that serves as a social networking 
 
 ## Project Link
 [View Project on FlutterFlow](https://app.flutterflow.io/project/tinder-c30gbz)
-
+(Open the link and click on the green button on the top right of the screen)
 ## Features
 - User authentication and profile setup
 - Matching algorithm to suggest compatible profiles
